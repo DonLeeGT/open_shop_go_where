@@ -112,14 +112,18 @@ def get_vector_store():
 
 # ── Step 4: Retrieval ──
 
-def retrieve(vector_store, query, k=10):
-    return vector_store.similarity_search(query, k=k)
+def retrieve(vector_store, query, k=10, score_threshold=0.1):
+    results = vector_store.similarity_search_with_relevance_scores(query, k=k)
+    filtered = [(doc, score) for doc, score in results if score >= score_threshold]
+    if not filtered and results:
+        filtered = results[:3]
+    return filtered
 
 
 # ── Step 5: Output (LLM Generation) ──
 
-def format_docs(docs):
-    return "\n\n".join(doc.page_content for doc in docs)
+def format_docs(scored_docs):
+    return "\n\n".join(doc.page_content for doc, _score in scored_docs)
 
 
 def build_units_summary(units):
