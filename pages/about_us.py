@@ -19,7 +19,7 @@ st.markdown("""
 1. **Simplify information access** — Replace the need to manually browse individual listings and read through lengthy terms and conditions by enabling user-centric, natural language queries such as:
     - *(location-related)* I want to open shop in the west
     - *(trade-related)* I want to open a cafe
-2. **Provide up-to-date data** — Scrape live listing data from the Place2Lease API on every app startup, ensuring users always see current availability.
+2. **Provide up-to-date data** — When running locally, scrape live listing data from the Place2Lease API on every app startup. On the live web version (Streamlit Cloud), pre-scraped data is loaded automatically since the HDB API is not accessible from external servers.
 3. **Consolidate knowledge sources** — Combine scraped listings with reference documents (FAQ, e-Bidding T&C, town-region mapping) into a single searchable knowledge base.
 4. **Deliver accurate, grounded answers** — Use Retrieval-Augmented Generation (RAG) to ensure responses are based on actual data rather than general knowledge.
 """)
@@ -30,7 +30,7 @@ st.header("Data Sources")
 st.markdown("""
 | Source | Type | Description |
 |--------|------|-------------|
-| [Place2Lease API](https://place2lease.hdb.gov.sg/public) | Live API (scraped) | All current HDB commercial unit listings — unit details, floor area, tenure, allowed trades, and important unit conditions |
+| [Place2Lease API](https://place2lease.hdb.gov.sg/public) | Live API (scraped locally) / Pre-loaded (cloud) | All current HDB commercial unit listings — unit details, floor area, tenure, allowed trades, and important unit conditions |
 | FAQ.txt | Text file | Frequently asked questions about the Place2Lease portal |
 | e-Bidding Terms and Conditions | PDF | Rules, requirements, and terms for the e-bidding process |
 | town_region.txt | Text file | Town-to-region mapping for location-based queries (e.g. Bedok → East) |
@@ -40,7 +40,7 @@ st.divider()
 
 st.header("Features")
 st.markdown("""
-- **Live Data Scraping** — Automatically fetches all available unit listings from the Place2Lease public API on startup, with full pagination support.
+- **Data Loading** — When running locally, automatically scrapes all available unit listings from the Place2Lease public API on startup with full pagination support. On the live web version (Streamlit Cloud), pre-scraped data is loaded since the HDB API is not accessible from external servers.
 - **Region & Trade Awareness** — Units are enriched with region data, and the chatbot understands allowed/excluded trades and "Open Trade" designations.
 - **RAG-Powered Chatbot** — Ask questions in natural language and get answers grounded in actual listing data and reference documents, with direct links to unit listings.
 - **Source Transparency** — Every chatbot response includes expandable source citations showing which document chunks were used.
