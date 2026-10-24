@@ -42,6 +42,6 @@ if prompt := st.chat_input("e.g. I want to open a cafe in the west."):
                 for i, (doc, score) in enumerate(retrieved, 1):
                     source = doc.metadata.get("source", "unknown")
                     st.markdown(f"**[{i}] {source}** (relevance: {score:.0%})")
-                    st.text(doc.page_content[:300])
+                    st.text(doc.page_content)
 
     st.session_state["messages"].append({"role": "assistant", "content": answer})
