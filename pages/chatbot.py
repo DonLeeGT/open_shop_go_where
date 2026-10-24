@@ -2,6 +2,7 @@ import streamlit as st
 from rag import ask
 
 st.title("Open Shop Go Where?")
+st.caption("Unit Listing data as at 24 Oct 2026")
 with st.expander("DISCLAIMER"):
     st.write(
         "This web application is a prototype developed for educational purposes only. "
