@@ -2,9 +2,7 @@ import streamlit as st
 import hmac
 import json
 import os
-from dotenv import load_dotenv
-
-load_dotenv()
+os.environ.setdefault("OPENAI_API_KEY", st.secrets.get("OPENAI_API_KEY", ""))
 
 from scraper import scrape_all_units, build_corpus
 from rag import build_rag_pipeline, get_vector_store
