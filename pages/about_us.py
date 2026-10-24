@@ -47,3 +47,15 @@ st.markdown("""
 - **Multi-Document Knowledge Base** — Ingests PDF, text files, and scraped web data into a unified vector store for comprehensive search.
 - **Secure Access** — Password-protected login to control access to the application.
 """)
+
+st.divider()
+
+st.header("Common Questions Asked in a User Journey")
+st.markdown("""
+- **Q1: "I want to open a cafe in the west"**
+    - Uses the full unit listing summary passed as context to the LLM for accuracy in matching location, trades, and availability.
+- **Q2: "What is E-Bidding?"**
+    - Answered via vector search over reference documents (e-Bidding Terms & Conditions, FAQ).
+- **Q3: "Who can be a Bidder?"**
+    - Answered via vector search over reference documents (e-Bidding Terms & Conditions, FAQ).
+""")
