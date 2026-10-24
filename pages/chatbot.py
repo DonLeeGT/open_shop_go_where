@@ -37,10 +37,11 @@ if prompt := st.chat_input("e.g. I want to open a cafe in the west."):
             answer, retrieved = ask(vector_store, prompt, units=units)
         st.markdown(answer)
 
-        with st.expander("Sources"):
-            for i, doc in enumerate(retrieved, 1):
-                source = doc.metadata.get("source", "unknown")
-                st.markdown(f"**[{i}] {source}**")
-                st.text(doc.page_content[:300])
+        if retrieved:
+            with st.expander("Sources"):
+                for i, (doc, score) in enumerate(retrieved, 1):
+                    source = doc.metadata.get("source", "unknown")
+                    st.markdown(f"**[{i}] {source}** (relevance: {score:.0%})")
+                    st.text(doc.page_content[:300])
 
     st.session_state["messages"].append({"role": "assistant", "content": answer})
