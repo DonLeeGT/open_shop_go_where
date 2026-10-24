@@ -54,11 +54,14 @@ def check_password():
 
 @st.cache_data(show_spinner=False)
 def load_place2lease_data():
-    all_units = scrape_all_units()
-
-    os.makedirs("resources", exist_ok=True)
-    with open(UNITS_JSON, "w", encoding="utf-8") as f:
-        json.dump(all_units, f, indent=2, ensure_ascii=False)
+    try:
+        all_units = scrape_all_units()
+        os.makedirs("resources", exist_ok=True)
+        with open(UNITS_JSON, "w", encoding="utf-8") as f:
+            json.dump(all_units, f, indent=2, ensure_ascii=False)
+    except Exception:
+        with open(UNITS_JSON, "r", encoding="utf-8") as f:
+            all_units = json.load(f)
 
     corpus = build_corpus(all_units)
     with open(CORPUS_TXT, "w", encoding="utf-8") as f:
