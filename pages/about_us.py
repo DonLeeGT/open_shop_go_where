@@ -58,4 +58,6 @@ st.markdown("""
     - Answered via vector search over reference documents (e-Bidding Terms & Conditions, FAQ).
 - **Q3: "Who can be a Bidder?"**
     - Answered via vector search over reference documents (e-Bidding Terms & Conditions, FAQ).
+- **Q4: "What is GGG?"**
+    - Answered via vector search over reference documents (e-Bidding Terms & Conditions, FAQ).
 """)
