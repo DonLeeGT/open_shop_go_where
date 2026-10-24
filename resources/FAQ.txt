@@ -1,0 +1,32 @@
+Q1: For a tender that is launched online, can I choose to pay the tender deposit by cash or cashier's order?
+A: No. You will be required to pay the tender deposit via electronic payment methods such as credit card, direct debit, PayNow before the tender closing date for the tender submission to be considered successful. You are strongly advised to ensure sufficient funds/ credit limit and cater for adequate time to complete your tender submission.
+
+Q2: What are the main changes and benefits of the website revamp?
+A: Over the years, HDB has adopted varied modes of leasing our commercial properties. The website revamp will enhance customer experience by bringing all tender formats online. For example, price-quality method (PQM) tenders for supermarkets and eating houses are currently done via hardcopy. With the new website, customers can obtain all PQM tender information, submit their tender, make payment for the tender deposit, reply to tender clarifications, view results, etc, online at their convenience. Customers can also do away with the hassle and cost of having to purchase hardcopy tender documents, print out tender proposals, purchase cashier’s order and travelling to HDB’s office for the tender submission. This initiative also supports our Go Green efforts to adopt a paperless system.
+
+Q3: What is the new HDB Place2Lease?
+A: The HDB Place2Lease is a website for the leasing of HDB commercial properties. The revamped P2L website is a one-stop portal for customers to lease properties electronically, with enhancements and additional features being incorporated.
+
+Q4: For a tender that is launched online, is hardcopy submission accepted?
+A: No. The tender submission mode will follow the mode of tender launch (electronic or hardcopy). We do not accept hybrid tender submission modes.
+
+Q5: Can I use my mobile device to submit bids?
+A: Yes, you will be able to do so on the new HDB Place2Lease.
+
+Q6: Where can I find out more information on how to use the new website to submit tender?
+A: You can refer to the User Guide under Help > Resource tab. The Terms & Conditions are also posted in this tab for customers to read and familiarise themselves with the general Terms & Conditions.
+
+Q7: Will there be any change in the tender Terms and Conditions or evaluation criteria arising from the website revamp?
+A: Tender Terms & Conditions, including evaluation criteria are reviewed from time to time, and is independent of the website revamp. Customers are advised to read the tender information and tender documents thoroughly and carefully, before preparing and submitting their tender.
+
+Q8: I have been looking for tender opportunities for HDB commercial properties on the HDB Infoweb. How will I be informed of tender opportunities in the future?
+A: For a start, we will continue to share tender opportunities via the HDB Infoweb <Business – Commercial - Renting from HDB>. These opportunities will subsequently move to the P2L platform at a later date. Customers are also encouraged to login to P2L with their Singpass / Corppass to create an “Alert Me” profile to receive alerts when properties meeting their criteria are put up for tender.
+
+Q9: I have previously registered for a bidding account and alerts for e-bidding opportunities before the P2L website revamp. Do I have to register again?
+A: Yes. You will need to register for an account on the new HDB P2L and set up your alert profile as your previous details will not be captured in the new system.
+
+Q10: How will customers be assisted in this transition?
+A: We understand that some customers may not have experience in submitting tenders online. Current hardcopy tender exercises will be done fully digitally via the revamped P2L in the near future. In the interim, HDB may continue to launch tender exercises via the traditional hardcopy method only, so that customers have more time to familiarise themselves with the website. Customers can also contact us at 6866 3073 from 8.30am to 5.00pm on Monday to Friday (excluding public holidays), or via the e-feedback form https://go.gov.sg/hdb-write-to-us for any enquiries.
+
+Q11: What are the compatible browsers for Place2Lease?
+A: The compatible browsers are Microsoft Edge and Google Chrome.

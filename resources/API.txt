@@ -1,0 +1,3 @@
+https://place2lease.hdb.gov.sg/webservice-public/api/v1/tender-units/public/search-tender-units?page=1&pageSize=10&order=asc&orderProperty=lastPost.currentBidClosingDate&startIndex=0&collectionSize=24
+
+https://place2lease.hdb.gov.sg/webservice-public/api/v1/tender-units/public/view/3697

@@ -1,0 +1,12 @@
+streamlit
+requests
+beautifulsoup4
+pypdf
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+chromadb
+tiktoken
+openai
+python-dotenv

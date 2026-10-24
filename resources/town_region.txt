@@ -1,0 +1,28 @@
+Use the following town-to-region mapping to help on region-related question:
+Ang Mo Kio - North/East
+Bedok - East
+Bishan - North/Central
+Bukit Batok - West
+Bukit Merah - South/Central
+Bukit Panjang - West
+Bukit Timah - West/Central
+Central Area - Central
+Chua Chu Kang - North/West 
+Clementi - West
+Geylang - East/Central
+Hougang - East
+Jurong East - West
+Jurong West - West
+Kallang/Whampoa - Central
+Marine Parade - Central/East
+Pasir Ris - East
+Punggol - North/East
+Queenstown - West/Central
+Sembawang - North
+Sengkang - North/East
+Serangoon - North/East
+Tampines - East
+Tengah - West
+Toa Payoh - North/Central
+Woodlands - North
+Yishun - North
