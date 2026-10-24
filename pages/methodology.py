@@ -70,15 +70,14 @@ st.markdown("""
 
 st.subheader("6. Retrieval & Response Generation")
 st.write(
-    "When a user asks a question, the system retrieves the most relevant chunks "
-    "from the vector store and combines them with a structured summary of all units "
-    "(including region data) as context for the language model."
+    "The system uses a **hybrid context strategy** that combines two approaches "
+    "to give the LLM the most complete and accurate picture:"
 )
 st.markdown("""
-- **Retrieval:** Top-10 similarity search from ChromaDB
-- **Structured context:** A compact all-units summary (town, region, type, trades) is prepended to the retrieved chunks, enabling accurate counting and aggregation answers
+- **Full unit listings (passed in full):** A structured summary of all unit listings — including address, town, region, property type, floor area, allowed trades, and listing links — is passed directly to the LLM as context. This ensures accurate answers for counting, comparison, and aggregation queries (e.g. "how many units in the East?") without relying on vector search, which may miss relevant units.
+- **Reference documents (vector search):** Supporting documents such as the FAQ, e-Bidding Terms & Conditions, and town-region mapping are retrieved via similarity search from ChromaDB. Only the most relevant chunks (filtered by a relevance score threshold) are included, keeping the context focused and cost-efficient.
 - **LLM:** OpenAI `gpt-4o-mini`
-- **Prompt strategy:** System prompt instructs the model to answer strictly from retrieved context
+- **Prompt strategy:** System prompt instructs the model to answer strictly from the provided context — both the full unit listings and the retrieved reference chunks.
 """)
 
 st.divider()
