@@ -14,7 +14,6 @@ COLLECTION_NAME = "place2lease_rag"
 DOCUMENT_SOURCES = [
     os.path.join(RESOURCES_DIR, "FAQ.txt"),
     os.path.join(RESOURCES_DIR, "e-Bidding Terms and Conditions.pdf"),
-    os.path.join(RESOURCES_DIR, "place2lease_corpus.txt"),
     os.path.join(RESOURCES_DIR, "town_region.txt"),
 ]
 
@@ -114,10 +113,7 @@ def get_vector_store():
 
 def retrieve(vector_store, query, k=10, score_threshold=0.1):
     results = vector_store.similarity_search_with_relevance_scores(query, k=k)
-    filtered = [(doc, score) for doc, score in results if score >= score_threshold]
-    if not filtered and results:
-        filtered = results[:3]
-    return filtered
+    return [(doc, score) for doc, score in results if score >= score_threshold]
 
 
 # ── Step 5: Output (LLM Generation) ──
