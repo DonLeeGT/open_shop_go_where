@@ -1,74 +1,6 @@
 [
   {
     "unit_details": {
-      "Unit ID": 3697,
-      "HDB Ref No": "28081703629",
-      "Address": "88, Tanglin Halt Road, #01-09, S(141088)",
-      "Block": "88",
-      "Street": "Tanglin Halt Road",
-      "Level": "01",
-      "Unit No": "09",
-      "Postal Code": "141088",
-      "HDB Town": "Queenstown",
-      "Property Type": "Shop",
-      "Usage Type": "Shop",
-      "Floor Area (sqm)": 151,
-      "Has Water Supply": true,
-      "Has Toilet": true,
-      "Electrical Loading (Amps)": 100,
-      "Electrical Type": "3 Phase",
-      "Service & Conservancy Charges": 357,
-      "Exercise No": "PRC-O-202609-10",
-      "Tender Type": "Price Only",
-      "Bid Opening Date": "08-Oct-2026 11:00:00",
-      "Bid Closing Date": "28-Oct-2026 11:00:00",
-      "Tenure (months)": 36,
-      "Tenure Option (months)": 36,
-      "Rent-Free Months": "1st,2nd",
-      "Deposit Type": "By % of Tendered Rent",
-      "Allowed Trades": [
-        "Cafe (Sale of Snacks/Pastries & Drinks)"
-      ],
-      "Excluded Trades": []
-    },
-    "important_unit_conditions": "1)    You are invited by the Housing and Development Board (\"HDB\") to submit a Tender Offer for the tenancy and operation of the subject unit via the\nPrice-Only Method\n(\"P-only\") tender\n.  Tender Offers are to be submitted in accordance with instructions set out in the attached Tender Document and via one of the HDB's appointed Marketing Agents tabled herein. For more information on tender participation, please download the\nTender User Guide\n.\nAgency | CBRE | C&W Services | Knight Frank | Edmund Tie & Co\nContact | Jasmine Tay | Win Ng | Xiong Guoxin | Velinda Kwan\nEmail / HP | Jasmine.Tay@cbre.com.sg9777 5041 | Win.Ng@cwservices.com8800 0388 | Guoxin.Xiong@sg.knightfrank.com8500 2958 | Velinda.Kwan@etcsea.com9880 6439\n2)    Tenderers are invited to tender for this unit strictly for use as a\nHalal Cafe.\nAny proposal to operate this unit for other uses will not be considered and the tender deposit will also be forfeited.\n3)     The Tenant is required to study and propose the feasibility of running and installing any gas pipes and exhaust discharge outlet along the common area such that it would not adversely affect the aesthetics of the common area and to ensure the discharge outlet location do not cause any heat and smell nuisance, and proper filtration of the discharge air is to be implemented.\n4)     The placement of LPG is subject to Town Council’s approval and must be approved by SCDF for its design, at the Tenant’s own cost and expense.\n5)    Should the Tenant obtain the necessary approvals to install any exhaust system, it must be maintained in proper working condition at all times and do not cause any danger, disturbance or nuisance to neighbouring residents or members of the public. Otherwise, HDB may revoke the approval granted to the tenant. In such an event, the tenant must remove the exhaust system within 7 days and reinstate the premises back to its original condition.\n6)    The Tenant is required to implement measures to mitigate noise, heat, and odour issues, promptly addressing any adverse feedback from residents, restricting operating hours to minimise disturbance to residents, and conducting regular monitoring and compliance checks.\n7)    Outdoor refreshment area is disallowed.\n8)    The tenancy for the Premises is for a term of three (3) years with an option to renew for a further three (3) years in accordance with the provisions in the Tenancy Agreement.  The renewal of the tenancy for the second three-year term shall be at the same monthly rent as the initial three-year tenancy term.  To avoid doubt, the Accepted Bid will be applied during the first two (2) tenancy terms and no rent variation or adjustment shall be permitted (except as provided in these Terms and Conditions and in the Tenancy Agreement) throughout the first 2 tenancy terms.\n9)    Any request to upgrade the electrical load during the 1st term of tenancy i.e., first three years will not be considered.  Should there be a need to upgrade our switchroom after the 1st term of tenancy, the cost of such upgrading work shall be borne by the Tenant. Costs of electrical submain works, or electrical standard charge based on the supply required is payable by the Tenant.\n10)    Tenderers are advised to view the unit before submitting their tenders.  Please refer to the Tender Form for more information on the unit viewing.  Viewing beyond the scheduled dates (if any) shall not be accommodated.\n11)    Tender validity period shall be six (6) months from the date of the tender closing.  Tenderers are strongly advised to work out their business costs and assess their business viability before submitting their tenders.  Tender deposit shall be forfeited if the tenderer withdraws his tender.  In addition, the tenderer would be debarred from participating in future auctions and tenders called for by HDB, the Government and other Statutory Boards, for a period of up to a maximum of 5 years.\n12)    Please note that HDB does not provide information on any works undertaken by other authorities/ agencies and Town Council to the block or in its surrounding, as part of the unit's tender information.\n13)    Tenderers are required to peruse all conditions stated in the Tender Document.\n14)    Tenderers are to ensure all inputs are in order before submitting the tender."
-  },
-  {
-    "unit_details": {
-      "Unit ID": 3838,
-      "HDB Ref No": "28117866214",
-      "Address": "127, Plantation Crescent, #02-06, S(690127)",
-      "Block": "127",
-      "Street": "Plantation Crescent",
-      "Level": "02",
-      "Unit No": "06",
-      "Postal Code": "690127",
-      "HDB Town": "Tengah",
-      "Property Type": "Shop",
-      "Usage Type": "Shop",
-      "Floor Area (sqm)": 94,
-      "Has Water Supply": true,
-      "Has Toilet": false,
-      "Electrical Loading (Amps)": 150,
-      "Electrical Type": "3 Phase",
-      "Service & Conservancy Charges": 1551,
-      "Exercise No": "PRC-O-202609-10",
-      "Tender Type": "Price Only",
-      "Bid Opening Date": "08-Oct-2026 11:00:00",
-      "Bid Closing Date": "28-Oct-2026 11:00:00",
-      "Tenure (months)": 36,
-      "Tenure Option (months)": 36,
-      "Rent-Free Months": "1st,2nd",
-      "Deposit Type": "By % of Tendered Rent",
-      "Allowed Trades": [
-        "Cafe (Sale of Snacks/Pastries & Drinks)"
-      ],
-      "Excluded Trades": []
-    },
-    "important_unit_conditions": "1)    You are invited by the Housing and Development Board (\"HDB\") to submit a Tender Offer for the tenancy and operation of the subject unit via the\nPrice-Only Method (\"P-only\") tender\n.  Tender Offers are to be submitted in accordance with instructions set out in the attached Tender Document and via one of the HDB's appointed Marketing Agents tabled herein. For more information on tender participation, please download the\nTender User Guide\n.\nAgency | CBRE | C&W Services | Knight Frank | Edmund Tie & Co\nContact | Jasmine Tay | Win Ng | Xiong Guoxin | Velinda Kwan\nEmail / HP | Jasmine.Tay@cbre.com.sg9777 5041 | Win.Ng@cwservices.com8800 0388 | Guoxin.Xiong@sg.knightfrank.com8500 2958 | Velinda.Kwan@etcsea.com9880 6439\n2)    Tenderers are invited to tender for this unit strictly for use as a\nDessert Cafe (Frozen Yoghurt)\n.  Any proposal to operate this unit for other uses will not be considered and the tender deposit will also be forfeited.\n3)\nThe tenancy for the Premises is for a term of three (3) years with an option to renew for a further three (3) years in accordance with the provisions in the Tenancy Agreement.  The renewal of the tenancy for the second three-year term shall be at the same monthly rent as the initial three-year tenancy term.  To avoid doubt, the Accepted Bid will be applied during the first two (2) tenancy terms and no rent variation or adjustment shall be permitted (except as provided in these Terms and Conditions and in the Tenancy Agreement) throughout the first 2 tenancy terms.\n4)    Any request to upgrade the electrical load during the 1st term of tenancy i.e., first three years will not be considered.  Should there be a need to upgrade our switchroom after the 1st term of tenancy, the cost of such upgrading work shall be borne by the Tenant. Costs of electrical submain works, or electrical standard charge based on the supply required is payable by the Tenant.\n5)    Tenderers are advised to view the unit before submitting their tenders.  Please refer to the Tender Form for more information on the unit viewing.  Viewing beyond the scheduled dates (if any) shall not be accommodated.\n6)    Tender validity period shall be six (6) months from the date of the tender closing.  Tenderers are strongly advised to work out their business costs and assess their business viability before submitting their tenders.  Tender deposit shall be forfeited if the tenderer withdraws his tender.  In addition, the tenderer would be debarred from participating in future auctions and tenders called for by HDB, the Government and other Statutory Boards, for a period of up to a maximum of 5 years.\n7)    Please note that HDB does not provide information on any works undertaken by other authorities/ agencies and Town Council to the block or in its surrounding, as part of the unit's tender information.\n8)    Tenderers are required to peruse all conditions stated in the Tender Document.\n9)    Tenderers are to ensure all inputs are in order before submitting the tender."
-  },
-  {
-    "unit_details": {
       "Unit ID": 3614,
       "HDB Ref No": "28121044900",
       "Address": "211, Tengah Garden Avenue, #01-10, S(690211)",
@@ -502,6 +434,143 @@
       "Excluded Trades": []
     },
     "important_unit_conditions": "1)    You are invited by the Housing and Development Board (\"HDB\") to submit a Tender Offer for the tenancy and operation of the subject unit via the\nPrice-Only Method (\"P-only\") tender\n.  Tender Offers are to be submitted in accordance with instructions set out in the attached Tender Document and via one of the HDB's appointed Marketing Agents tabled herein. For more information on tender participation, please download the\nTender User Guide\n.\nAgency | CBRE | C&W Services | Knight Frank | Edmund Tie & Co\nContact | Jasmine Tay | Win Ng | Xiong Guoxin | Velinda Kwan\nEmail / HP | Jasmine.Tay@cbre.com.sg9777 5041 | Win.Ng@cwservices.com8800 0388 | Guoxin.Xiong@sg.knightfrank.com8500 2958 | Velinda.Kwan@etcsea.com9880 6439\n2)    Tenderers are invited to tender for this unit strictly for use as a\nJapanese Restaurant\n.  Any proposal to operate this unit for other uses will not be considered and the tender deposit will also be forfeited.\n3)\nThe tenancy for the Premises is for a term of three (3) years with an option to renew for a further three (3) years in accordance with the provisions in the Tenancy Agreement.  The renewal of the tenancy for the second three-year term shall be at the same monthly rent as the initial three-year tenancy term.  To avoid doubt, the Accepted Bid will be applied during the first two (2) tenancy terms and no rent variation or adjustment shall be permitted (except as provided in these Terms and Conditions and in the Tenancy Agreement) throughout the first 2 tenancy terms.\n4)    Any request to upgrade the electrical load during the 1st term of tenancy i.e., first three years will not be considered.  Should there be a need to upgrade our switchroom after the 1st term of tenancy, the cost of such upgrading work shall be borne by the Tenant. Costs of electrical submain works, or electrical standard charge based on the supply required is payable by the Tenant.\n5)    Tenderers are advised to view the unit before submitting their tenders.  Please refer to the Tender Form for more information on the unit viewing.  Viewing beyond the scheduled dates (if any) shall not be accommodated.\n6)    Tender validity period shall be six (6) months from the date of the tender closing.  Tenderers are strongly advised to work out their business costs and assess their business viability before submitting their tenders.  Tender deposit shall be forfeited if the tenderer withdraws his tender.  In addition, the tenderer would be debarred from participating in future auctions and tenders called for by HDB, the Government and other Statutory Boards, for a period of up to a maximum of 5 years.\n7)    Please note that HDB does not provide information on any works undertaken by other authorities/ agencies and Town Council to the block or in its surrounding, as part of the unit's tender information.\n8)    Tenderers are required to peruse all conditions stated in the Tender Document.\n9)    Tenderers are to ensure all inputs are in order before submitting the tender."
+  },
+  {
+    "unit_details": {
+      "Unit ID": 3513,
+      "HDB Ref No": "12260014124",
+      "Address": "39, Sin Ming Drive, #01-583, S(575713)",
+      "Block": "39",
+      "Street": "Sin Ming Drive",
+      "Level": "01",
+      "Unit No": "583",
+      "Postal Code": "575713",
+      "HDB Town": "Bishan",
+      "Property Type": "Food Court",
+      "Usage Type": "Food Court",
+      "Floor Area (sqm)": 430,
+      "Has Water Supply": true,
+      "Has Toilet": true,
+      "Electrical Loading (Amps)": 40,
+      "Electrical Type": "3 Phase",
+      "Service & Conservancy Charges": 443,
+      "Exercise No": "PRC-O-202607-86",
+      "Tender Type": "Price Only",
+      "Bid Opening Date": "29-Oct-2026 09:00:00",
+      "Bid Closing Date": "18-Nov-2026 11:00:00",
+      "Tenure (months)": 36,
+      "Tenure Option (months)": 36,
+      "Rent-Free Months": "1st,2nd",
+      "Deposit Type": "By % of Tendered Rent",
+      "Allowed Trades": [
+        "Eating House",
+        "Foodcourt"
+      ],
+      "Excluded Trades": []
+    },
+    "important_unit_conditions": "1)    You are invited by the Housing and Development Board (\"HDB\") to submit a Tender Offer for the tenancy and operation of the subject unit via the\nPrice-Only Method (\"P-only\") tender\n. Tender Offers are to be submitted in accordance with instructions set out in the attached Tender Document and via one of the HDB's appointed Marketing Agents tabled herein. For more information on tender participation, please download the\nTender User Guide\n.\nAgency | CBRE | C&W Services | Knight Frank | Edmund Tie & Co\nContact | Jasmine Tay | Win Ng | Xiong Guoxin | Velinda Kwan\nEmail / HP | Jasmine.Tay@cbre.com.sg9777 5041 | Win.Ng@cwservices.com8800 0388 | Guoxin.Xiong@sg.knightfrank.com8500 2958 | Velinda.Kwan@etcsea.com9880 6439\n2)    Tenderers are invited to tender for this unit strictly for use as a\nCanteen\n. Any proposal to operate this unit for other uses will not be considered and the tender deposit will also be forfeited.\n3)\nThe tenancy for the Premises is for a term of three (3) years with an option to renew for a further three (3) years in accordance with the provisions in the Tenancy Agreement. The renewal of the tenancy for the second three-year term shall be at the same monthly rent as the initial three-year tenancy term. To avoid doubt, the Accepted Bid will be applied during the first two (2) tenancy terms and no rent variation or adjustment shall be permitted (except as provided in these Terms and Conditions and in the Tenancy Agreement) throughout the first 2 tenancy terms.\n4)    Any request to upgrade the electrical load during the 1st term of tenancy i.e., first three years will not be considered.  Should there be a need to upgrade our switchroom after the 1st term of tenancy, the cost of such upgrading work shall be borne by the Tenant. Costs of electrical submain works, or electrical standard charge based on the supply required is payable by the Tenant.\n5)    Tenderers are advised to view the unit before submitting their tenders.  Please refer to the \"Site Viewing Information\" for more information on the unit viewing.  Viewing beyond the scheduled dates (if any) shall not be accommodated.\n6)    Tender validity period shall be six (6) months from the date of the tender closing. Tenderers are strongly advised to work out their business costs and assess their business viability before submitting their tenders.  Tender deposit shall be forfeited if the tenderer withdraws his tender.  In addition, the tenderer would be debarred from participating in future auctions and tenders called for by HDB, the Government and other Statutory Boards, for a period of up to a maximum of 5 years.\n7)    Please note that HDB does not provide information on any works undertaken by other authorities/ agencies and Town Council to the block or in its surrounding, as part of the unit's tender information.\n8)    Tenderers are required to peruse all conditions stated in the Tender Document for this P-only tender.\n9)    Tenderers are to ensure all inputs are in order before submitting the tender."
+  },
+  {
+    "unit_details": {
+      "Unit ID": 3514,
+      "HDB Ref No": "15680002816",
+      "Address": "414, Eunos Road 5, #01-60, S(400414)",
+      "Block": "414",
+      "Street": "Eunos Road 5",
+      "Level": "01",
+      "Unit No": "60",
+      "Postal Code": "400414",
+      "HDB Town": "Geylang",
+      "Property Type": "Shop with Living Quarters",
+      "Usage Type": "Shop with Living Quarters",
+      "Floor Area (sqm)": 30,
+      "Has Water Supply": true,
+      "Has Toilet": true,
+      "Electrical Loading (Amps)": 60,
+      "Electrical Type": "1 Phase",
+      "Service & Conservancy Charges": 95.72,
+      "Exercise No": "PRC-O-202607-86",
+      "Tender Type": "Price Only",
+      "Bid Opening Date": "29-Oct-2026 09:00:00",
+      "Bid Closing Date": "18-Nov-2026 11:00:00",
+      "Tenure (months)": 36,
+      "Tenure Option (months)": 36,
+      "Rent-Free Months": "1st,2nd",
+      "Deposit Type": "By % of Tendered Rent",
+      "Allowed Trades": [
+        "Medical Clinic"
+      ],
+      "Excluded Trades": []
+    },
+    "important_unit_conditions": "1)    You are invited by the Housing and Development Board (\"HDB\") to submit a Tender Offer for the tenancy and operation of the subject unit via the\nPrice-Only Method (\"P-only\") tender\n. Tender Offers are to be submitted in accordance with instructions set out in the attached Tender Document and via one of the HDB's appointed Marketing Agents tabled herein. For more information on tender participation, please download the\nTender User Guide\n.\nAgency | CBRE | C&W Services | Knight Frank | Edmund Tie & Co\nContact | Jasmine Tay | Win Ng | Xiong Guoxin | Velinda Kwan\nEmail / HP | Jasmine.Tay@cbre.com.sg9777 5041 | Win.Ng@cwservices.com8800 0388 | Guoxin.Xiong@sg.knightfrank.com8500 2958 | Velinda.Kwan@etcsea.com9880 6439\n2)    Tenderers are invited to tender for this unit strictly for use as a\nMedical Clinic\n. Any proposal to operate this unit for other uses will not be considered and the tender deposit will also be forfeited.\n3)\nThe tenancy for the Premises is for a term of three (3) years with an option to renew for a further three (3) years in accordance with the provisions in the Tenancy Agreement. The renewal of the tenancy for the second three-year term shall be at the same monthly rent as the initial three-year tenancy term. To avoid doubt, the Accepted Bid will be applied during the first two (2) tenancy terms and no rent variation or adjustment shall be permitted (except as provided in these Terms and Conditions and in the Tenancy Agreement) throughout the first 2 tenancy terms.\n4)    Any request to upgrade the electrical load during the 1st term of tenancy i.e., first three years will not be considered.  Should there be a need to upgrade our switchroom after the 1st term of tenancy, the cost of such upgrading work shall be borne by the Tenant. Costs of electrical submain works, or electrical standard charge based on the supply required is payable by the Tenant.\n5)    Tenderers are advised to view the unit before submitting their tenders.  Please refer to the \"Site Viewing Information\" for more information on the unit viewing.  Viewing beyond the scheduled dates (if any) shall not be accommodated.\n6)\nThe Successful Tenderer is required to operate a Medical Clinic (i.e. General Practioner Clinic with Registered Doctor).  Some examples of the trades which will not be considered as Medical Clinic are TCM clinic, tuina service, acupuncture practice, medical hall, aesthetic medical clinic, pharmacy or dental clinic. Please note that this list is not exhaustive.\n7)\nThe Tenant is required to participate in the Community Health Assist Scheme (CHAS), Chronic Disease Management Programme (CDMP) and the Public Health Preparedness Clinic (PHPC) scheme. In addition, the Tenant is to focus on core primary care work.\n8)    Tender validity period shall be six (6) months from the date of the tender closing. Tenderers are strongly advised to work out their business costs and assess their business viability before submitting their tenders.  Tender deposit shall be forfeited if the tenderer withdraws his tender.  In addition, the tenderer would be debarred from participating in future auctions and tenders called for by HDB, the Government and other Statutory Boards, for a period of up to a maximum of 5 years.\n9)    Please note that HDB does not provide information on any works undertaken by other authorities/ agencies and Town Council to the block or in its surrounding, as part of the unit's tender information.\n10)    Tenderers are required to peruse all conditions stated in the Tender Document for this P-only tender.\n11)    Tenderers are to ensure all inputs are in order before submitting the tender."
+  },
+  {
+    "unit_details": {
+      "Unit ID": 3892,
+      "HDB Ref No": "28121068400",
+      "Address": "201, Queen's Crescent, #01-03, S(140201)",
+      "Block": "201",
+      "Street": "Queen's Crescent",
+      "Level": "01",
+      "Unit No": "03",
+      "Postal Code": "140201",
+      "HDB Town": "Queenstown",
+      "Property Type": "Shop",
+      "Usage Type": "Shop",
+      "Floor Area (sqm)": 52,
+      "Has Water Supply": true,
+      "Has Toilet": true,
+      "Electrical Loading (Amps)": 60,
+      "Electrical Type": "3 Phase",
+      "Service & Conservancy Charges": 123,
+      "Exercise No": "PQM-O-202610-107",
+      "Tender Type": "PQM",
+      "Bid Opening Date": "28-Oct-2026 11:00:00",
+      "Bid Closing Date": "18-Nov-2026 11:00:00",
+      "Tenure (months)": 36,
+      "Tenure Option (months)": 36,
+      "Rent-Free Months": "1st,2nd,3rd",
+      "Deposit Type": "By % of Tendered Rent",
+      "Allowed Trades": [
+        "Medical Clinic"
+      ],
+      "Excluded Trades": []
+    },
+    "important_unit_conditions": "1)    You are invited by the Ministry of Health (\"MOH\") and the Housing & Development Board (\"HDB\") to submit a Tender Offer for the tenancy and operation of the subject unit via the\nPrice-Quality Method (\"PQM\") tender\n.  Tender Offers are to be submitted in accordance with the instructions set out in the attached Tender Document. For more information on tender participation, please download the\nTender User Guide\n.\n2)    Tenderers are invited to tender for this unit strictly for use as a\nPrivate General Practitioner (GP) Clinic\n. Any proposal to operate this unit for other uses will not be considered and the tender deposit will also be forfeited.\n3)\nThe tenancy for the Premises is for a term of three (3) years with an option to renew for a further three (3) years in accordance with the provisions in the Tenancy Agreement. The renewal of the tenancy for the second three-year term shall be at the same monthly rent as the initial three-year tenancy term. To avoid doubt, the Accepted Bid will be applied during the first two (2) tenancy terms and no rent variation or adjustment shall be permitted (except as provided in these Terms and Conditions and in the Tenancy Agreement) throughout the first 2 tenancy terms.\n4a) In view that this is a newly constructed unit, the Successful Tenderer will enjoy staggered rents when starting out. The monthly rent in the first year shall be calculated based on 70% of the rental bid submitted by the Successful Tenderer, 90% in the second year and 100% in the third year.  A Three - (3) month rent-free period is given to fit out the Premises.  During this period, only the service & conservancy charges are payable.\n4b)\nSuccessful Tenderer(s) who commence business operations at the Premises upon expiry of the three‑month rent‑free fitting‑out period and within the first six months from the date the shops obtain their Temporary Occupation Permit (TOP), subject to HDB’s assessment and upon at least seven days’ advance notice of the business commencement date, may be granted an additional bonus rent‑free period.\n5)    Any request to upgrade the electrical load during the 1st term of tenancy i.e., first three years will not be considered.  Should there be a need to upgrade our switchroom after the 1st term of tenancy, the cost of such upgrading work shall be borne by the Tenant. Costs of electrical submain works, or electrical standard charge based on the supply required is payable by the Tenant.\n6)    Tenderers are advised to view the unit before submitting their tender offer.  Please refer to the Tender Form for more information on the unit viewing.  Viewing beyond the scheduled dates (if any) shall not be accommodated.\n7)    Tender validity period shall be six (6) months from the date of the tender closing. Tenderers are strongly advised to work out their business costs and assess their business viability before submitting their tender offer. Tender deposit shall be forfeited if the tenderer withdraws his tender offer.  In addition, the tenderer would be debarred from participating in future auctions and tenders called for by HDB, the Government and other Statutory Boards, for a period of up to a maximum of 5 years.\n8)    Please note that HDB does not provide information on any works undertaken by other authorities/ agencies and Town Council to the block or in its surrounding, as part of the unit's tender information.\n9)    Tenderers are required to peruse all conditions stated in the Tender Document.\n10)    Tenderers are to ensure all inputs are in order before submitting the tender."
+  },
+  {
+    "unit_details": {
+      "Unit ID": 3893,
+      "HDB Ref No": "28121066000",
+      "Address": "327, Tengah Park Avenue, #01-05, S(690327)",
+      "Block": "327",
+      "Street": "Tengah Park Avenue",
+      "Level": "01",
+      "Unit No": "05",
+      "Postal Code": "690327",
+      "HDB Town": "Tengah",
+      "Property Type": "Shop",
+      "Usage Type": "Shop",
+      "Floor Area (sqm)": 55,
+      "Has Water Supply": true,
+      "Has Toilet": true,
+      "Electrical Loading (Amps)": 60,
+      "Electrical Type": "3 Phase",
+      "Service & Conservancy Charges": 124,
+      "Exercise No": "PQM-O-202610-107",
+      "Tender Type": "PQM",
+      "Bid Opening Date": "28-Oct-2026 11:00:00",
+      "Bid Closing Date": "18-Nov-2026 11:00:00",
+      "Tenure (months)": 36,
+      "Tenure Option (months)": 36,
+      "Rent-Free Months": "1st,2nd,3rd",
+      "Deposit Type": "By % of Tendered Rent",
+      "Allowed Trades": [
+        "Medical Clinic"
+      ],
+      "Excluded Trades": []
+    },
+    "important_unit_conditions": "1)    You are invited by the Ministry of Health (\"MOH\") and the Housing & Development Board (\"HDB\") to submit a Tender Offer for the tenancy and operation of the subject unit via the\nPrice-Quality Method (\"PQM\") tender\n.  Tender Offers are to be submitted in accordance with the instructions set out in the attached Tender Document. For more information on tender participation, please download the\nTender User Guide\n.\n2)    Tenderers are invited to tender for this unit strictly for use as a\nPrivate General Practitioner (GP) Clinic\n. Any proposal to operate this unit for other uses will not be considered and the tender deposit will also be forfeited.\n3)\nThe tenancy for the Premises is for a term of three (3) years with an option to renew for a further three (3) years in accordance with the provisions in the Tenancy Agreement. The renewal of the tenancy for the second three-year term shall be at the same monthly rent as the initial three-year tenancy term. To avoid doubt, the Accepted Bid will be applied during the first two (2) tenancy terms and no rent variation or adjustment shall be permitted (except as provided in these Terms and Conditions and in the Tenancy Agreement) throughout the first 2 tenancy terms.\n4a) In view that this is a newly constructed unit, the Successful Tenderer will enjoy staggered rents when starting out. The monthly rent in the first year shall be calculated based on 70% of the rental bid submitted by the Successful Tenderer, 90% in the second year and 100% in the third year.  A Three - (3) month rent-free period is given to fit out the Premises.  During this period, only the service & conservancy charges are payable.\n4b)\nSuccessful Tenderer(s) who commence business operations at the Premises upon expiry of the three‑month rent‑free fitting‑out period and within the first six months from the date the shops obtain their Temporary Occupation Permit (TOP), subject to HDB’s assessment and upon at least seven days’ advance notice of the business commencement date, may be granted an additional bonus rent‑free period.\n5)    Any request to upgrade the electrical load during the 1st term of tenancy i.e., first three years will not be considered.  Should there be a need to upgrade our switchroom after the 1st term of tenancy, the cost of such upgrading work shall be borne by the Tenant. Costs of electrical submain works, or electrical standard charge based on the supply required is payable by the Tenant.\n6)    Tenderers are advised to view the unit before submitting their tender offer.  Please refer to the Tender Form for more information on the unit viewing.  Viewing beyond the scheduled dates (if any) shall not be accommodated.\n7)    Tender validity period shall be six (6) months from the date of the tender closing. Tenderers are strongly advised to work out their business costs and assess their business viability before submitting their tender offer. Tender deposit shall be forfeited if the tenderer withdraws his tender offer.  In addition, the tenderer would be debarred from participating in future auctions and tenders called for by HDB, the Government and other Statutory Boards, for a period of up to a maximum of 5 years.\n8)    Please note that HDB does not provide information on any works undertaken by other authorities/ agencies and Town Council to the block or in its surrounding, as part of the unit's tender information.\n9)    Tenderers are required to peruse all conditions stated in the Tender Document.\n10)    Tenderers are to ensure all inputs are in order before submitting the tender."
   },
   {
     "unit_details": {
